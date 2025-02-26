@@ -1,0 +1,2 @@
+# DT2GS
+Code of DT2GS - NeurIPS 2023
