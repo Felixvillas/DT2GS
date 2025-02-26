@@ -2,14 +2,12 @@
 [NeurIPS 2023] -- Decompose a Task into Generalizable Subtasks in Multi-Agent Reinforcement Learning ([DT2GS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f7d3cef7ff579f2f903c8f458e730cae-Abstract-Conference.html))
 
 ## 1.Installation
----
 ```shell
 # install on-policy package
 cd DT2GS
 pip install -e .
 ```
 ## 2.Train/Transfer
----
 ### run mappo
 ```shell
 cd onpolicy/scripts/train_mappo_sh
@@ -59,8 +57,7 @@ chmod +x ./train_smac_asn.sh
 ```
 
 
-### BibTeX
----
+## BibTeX
 If you find our models useful, please consider citing our paper!
 ```
 @article{tian2023decompose,
