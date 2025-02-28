@@ -1,5 +1,5 @@
 # DT2GS
-[NeurIPS 2023] -- Decompose a Task into Generalizable Subtasks in Multi-Agent Reinforcement Learning ([DT2GS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f7d3cef7ff579f2f903c8f458e730cae-Abstract-Conference.html))
+[NeurIPS 2023] -- **D**ecompose a **T**ask in**to** **G**eneralizable **S**ubtasks in Multi-Agent Reinforcement Learning ([DT2GS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f7d3cef7ff579f2f903c8f458e730cae-Abstract-Conference.html))
 
 ## 1.Installation
 ```shell
